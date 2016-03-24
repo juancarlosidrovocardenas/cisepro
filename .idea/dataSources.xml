@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3365613828">
+    <data-source source="LOCAL" name="SQL Server (Microsoft) - SYSCISEPRO@192.168.0.4" uuid="7f73e29b-7b84-43c3-979a-efd064d53df4">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://192.168.0.4:1433;databaseName=SYSCISEPRO</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="PostgreSQL - frenosexpress@localhost" uuid="3546e454-fa96-428b-a079-babfd059db1a">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/frenosexpress</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="SQL Server (jTds) - SYSCISEPRO@192.168.0.4" uuid="3a8413ad-4437-4647-b774-aed4cf181bdc">
+      <driver-ref>sqlserver.jtds</driver-ref>
+      <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:jtds:sqlserver://192.168.0.4:1433/SYSCISEPRO</jdbc-url>
+    </data-source>
+  </component>
+</project>

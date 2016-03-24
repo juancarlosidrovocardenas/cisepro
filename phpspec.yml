@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: webcisepro
+        psr4_prefix: webcisepro
+        src_path: app
